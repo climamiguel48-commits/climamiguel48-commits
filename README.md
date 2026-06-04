@@ -50,7 +50,6 @@
 
 -   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/climamiguel48-commits)
 -   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:climamiguel48@gmail.com)
--   [![Email](https://img.shields.io/badge/Email-msilvab10%40estudiante.uc.cl-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:msilvab10@estudiante.uc.cl)
-------------------------------------------------------------------------
+-   [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-msilvab10%40estudiante.uc.cl-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:msilvab10@estudiante.uc.cl)
 
-⭐ **"De los datos a la tierra: ciencia reproducible para el agro"**
+
