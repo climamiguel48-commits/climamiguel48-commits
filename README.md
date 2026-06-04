@@ -30,7 +30,7 @@
 
 -   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/climamiguel48-commits)
 -   [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0300--8393-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)
--   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(<https://www.linkedin.com/in/miguel-silva2376/>)
+-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/miguel-silva2376/)
 -   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:climamiguel48@gmail.com)
 
 ------------------------------------------------------------------------
